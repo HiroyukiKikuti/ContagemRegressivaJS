@@ -1,0 +1,25 @@
+* {
+    z-index: 5px;
+}
+body {
+    background-color: #200a3f;
+}
+#contReg div {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 40px;
+    box-sizing: border-box;
+    background-color: #200a3f;
+    color: #00ec85;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: #00ec85;
+}
+#contReg {
+    margin-left: 500px;
+    padding-top: 300px;
+}
